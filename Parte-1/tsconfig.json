@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "moduleResolution": "node",
+        "outDir": "dist/js",
+        "target": "ES6",
+
+    },
+    "include": [
+        "app/**/*"
+    ]
+}
