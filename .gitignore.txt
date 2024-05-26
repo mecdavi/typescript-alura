@@ -1,0 +1,2 @@
+/Parte-1/node-modules
+/Parte-1/servidor-api/node-modules
