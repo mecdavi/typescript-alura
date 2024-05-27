@@ -3,7 +3,8 @@
         "moduleResolution": "node",
         "outDir": "dist/js",
         "target": "ES6",
-
+        "noEmitOnError": true,
+        "skipLibCheck": true
     },
     "include": [
         "app/**/*"
